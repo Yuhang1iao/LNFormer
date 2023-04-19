@@ -1,10 +1,10 @@
 # LNFormer:Lightweight Design for Nighttime Semantic Segmentation with Transformer
 
-![comp.png](C:\Users\lyh75\Desktop\打工人的素养\飞浆-期刊\图片\comp.png.png)
+![comp.png](./figure/comp.png.png)
 
 Achieve state-of-the-art trade-offs between accuracy and speed on the Nitycity dataset without using inference acceleration (e.g. tensorRT)!
 
-![mainfig](C:\Users\lyh75\Desktop\打工人的素养\飞浆-期刊\图片\mainfig.png)
+![mainfig](./figure/mainfig.png)
 
 The overall architecture of our methods.
 
