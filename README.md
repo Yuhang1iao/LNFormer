@@ -2,7 +2,7 @@
 
 ![comp.png](./figure/comp.png)
 
-Achieve state-of-the-art trade-offs between accuracy and speed on the Nitycity dataset without using inference acceleration (e.g. tensorRT)!
+Achieve state-of-the-art trade-offs between accuracy and speed on the Nightcity dataset without using inference acceleration (e.g. tensorRT)!
 
 ![mainfig](./figure/mainfig.png)
 
